@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.lumos789.javacodeabb.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.lumos789.javacodeabb.MyBundle
 
 class MyApplicationService {
 
